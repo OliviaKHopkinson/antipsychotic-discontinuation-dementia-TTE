@@ -1,7 +1,7 @@
-# Main analysis code for antipsychotic discontinuation study
+# Code for main analysis for 'Abrupt discontinuation and tapering of antipsychotics in older adults with dementia: a target trial emulation study'
 
 **Author:** Olivia Hopkinson  
-**Contact:** olivia.hopkinson.22@ucl.ac.uk
+**Contact:** olivia.hopkinson.22@ucl.ac.uk 
 **GitHub:** @OliviaKHopkinson
 
 ## Overview
