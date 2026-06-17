@@ -82,6 +82,3 @@ Hopkinson OK, Chobanov J, Goordeen D, Man KKC, Wong ICK, Reeve E, Bell JS, Wei L
 
 A RIS export of the reference is included at `references/hopkinson_2026_lancet_healthy_longevity.ris`. A GitHub citation file is also included as `CITATION.cff`.
 
-## Licence
-
-Add the intended licence here before making the repository public. For academic code, common options include MIT, GPL-3.0, or CC BY 4.0 for documentation. Check institutional or funder requirements before selecting a licence.
