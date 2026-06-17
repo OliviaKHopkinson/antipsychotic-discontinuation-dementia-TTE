@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated study."
+title: "Main analysis code for antipsychotic discontinuation target trial emulation study"
+authors:
+  - family-names: "Hopkinson"
+    given-names: "Olivia K"
+doi: "10.1016/j.lanhl.2026.100852"
+date-released: "2026-05-01"
+preferred-citation:
+  type: article
+  title: "Abrupt discontinuation and tapering of antipsychotics in older adults with dementia: a target trial emulation study"
+  authors:
+    - family-names: "Hopkinson"
+      given-names: "Olivia K"
+    - family-names: "Chobanov"
+      given-names: "Jan"
+    - family-names: "Goordeen"
+      given-names: "Darshna"
+    - family-names: "Man"
+      given-names: "Kenneth K C"
+    - family-names: "Wong"
+      given-names: "Ian C K"
+    - family-names: "Reeve"
+      given-names: "Emily"
+    - family-names: "Bell"
+      given-names: "J Simon"
+    - family-names: "Wei"
+      given-names: "Li"
+    - family-names: "Howard"
+      given-names: "Robert"
+    - family-names: "Lau"
+      given-names: "Wallis C Y"
+  journal: "The Lancet Healthy Longevity"
+  year: 2026
+  volume: 7
+  issue: 5
+  doi: "10.1016/j.lanhl.2026.100852"
